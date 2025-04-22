@@ -12,6 +12,7 @@ h1{
     border: 1px solid black;
     position: relative;
     margin: 20px 10px 10px 10px ;
+    display: none;
 }
 
 .card img{
@@ -74,11 +75,5 @@ h1{
   
   .button:hover > .close {
     animation: close 0.2s forwards 0.25s;
-  }
-  
-  @keyframes close {
-    100% {
-      opacity: 1;
-    }
   }
   
