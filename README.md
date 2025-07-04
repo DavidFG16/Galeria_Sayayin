@@ -1,4 +1,4 @@
-# 🐉 Sayayin Gallery
+# 🐉 Galeria Sayayin
 
 **Sayayin Gallery** is a small interactive web app inspired by the Dragon Ball universe. It allows users to dynamically add, edit, and remove Saiyan warrior cards by entering their name and image URL. Built with **HTML, CSS, and vanilla JavaScript**, it’s a simple DOM manipulation project for practicing dynamic UI creation.
 
